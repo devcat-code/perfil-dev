@@ -3,3 +3,5 @@ Curso: ADS
 Linguagens favoritas: Python, JavaScript
 Objetivo profissional: Analista de dados
 Hobbies: Jogar lol, ler fanfic sáfica, ver filmes de vampiro
+
+Github: https://github.com/devcat-code
